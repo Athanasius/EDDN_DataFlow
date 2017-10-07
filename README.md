@@ -11,3 +11,9 @@ Official URL is: https://ed.miggy.org/misc/EDDN_Dataflow.png
 This work is licensed under the Creative Commons Attribution 4.0
 International license.  See file: LICENSE-CC-BY-4.0.html (also at
 <https://creativecommons.org/licenses/by/4.0/legalcode>).
+
+Contributing
+============
+
+  The image is currently created, and maintained, using the program
+'dia' <http://live.gnome.org/Dia>
