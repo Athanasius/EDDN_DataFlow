@@ -1,3 +1,6 @@
+**This project is retired.  Please feel free to fork and continue if you find it useful.**
+===
+
 As I kept seeing people confuse EDDB with EDDN, and in general not know
 how game data gets from players to the various third party sites I've
 made an infrographic.
